@@ -1,0 +1,10 @@
+The major goal of any programming language is to bridge the gap between the programmer's brain and the
+computer. Most of the popular languages you've probably heard of, like C, C++, C#, and Java, are considered
+high-level languages, which means that they're closer to human language than machine language. And they
+are. But Python, with its clear and simple rules, is even closer to English than any of these. Creating Python
+programming is so straightforward that it's been called "programming at the speed of thought."
+Python's ease of use translates into productivity for professional programmers. Python programs are shorter
+and take less time to create than programs in many other popular languages. In fact, Python programs are
+typically 3 to 5 times shorter than equivalent Java programs, and often 5 to 10 times shorter than equivalent
+C++ programs. There's even some evidence to suggest that a single Python programmer can finish in two
+months what takes two C++ programmers more than a year to complete.
